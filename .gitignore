@@ -1,0 +1,12 @@
+#ignorar archivos de Mac
+.DS_STORE
+
+# Ignorar archivos de video
+*.avi
+*.mkv
+*.mp4
+*.mov
+
+# Ignorar carpetas y los docuemntos dentro de la carpeta
+/carpeta_protegida
+
